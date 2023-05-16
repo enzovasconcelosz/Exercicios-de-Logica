@@ -11,4 +11,4 @@ inicio
       senao
       escreval("O número é ímpar")
       fimse
-fimalgoritmo
+fimalgoritmoMudanÃ§a no arquivo!
